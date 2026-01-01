@@ -57,7 +57,9 @@ In order to still do this with your multiplayer-enabled Minecraft Account, you n
 
 #### Changing the DNS settings
 
-You might see Primary and Secondary DNS settings like 8.8.8.8 and 1.1.1.1 in your settings.
+Select the configured Wifi on your console and change it's settings.
+
+You might see Primary and Secondary DNS settings like 008.008.008.008 or 001.001.001.001 in your settings.
 Change the primary DNS to a server mentioned in [BedrockConnect](https://github.com/Pugmatt/BedrockConnect).
 
 I'm using the ZAP Hosting server: 134.255.231.119 (Location: DE)
